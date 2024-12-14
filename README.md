@@ -46,7 +46,7 @@ To set up the project, follow these steps:
    ```
 
 3. **Download the Market-1501 Dataset**:
-   - Download the dataset from [this link](https://www.kaggle.com/datasets/ljlbarb/market1501) or the official source.
+   - Download the dataset from [this link](https://www.kaggle.com/datasets/pengcw1/market-1501) or the official source.
    - Extract it into the appropriate directory within the project.
 
 ---
@@ -80,7 +80,4 @@ For any questions or further information, feel free to reach out:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
