@@ -1,0 +1,8 @@
+#Python version is 3.8.10
+# create conda enviroment --> conda create -n ENV_NAME python=3.8 -y
+numpy == 1.24.3
+opencv-contrib-python == 4.10.0.84
+torch == 1.6.0
+torchaudio == 0.6.0
+torchvision == 0.7.0
+
